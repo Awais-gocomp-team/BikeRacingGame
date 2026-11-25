@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bike Racing Game</string>
+    <string name="road_background">Road Background</string>
+    <string name="player_bike">Player Bike</string>
+    <string name="red_bike">Red Bike Opponent</string>
+    <string name="score_format">Score: %d</string>
+    <string name="speed_format">Speed: %d km/h</string>
+    <string name="score_text">Score: 0</string>
+    <string name="speed_text">Speed: 0 km/h</string>
+    <string name="btn_left">&lt;</string>
+    <string name="btn_right">&gt;</string>
+    <string name="btn_start">Start Game</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_restart">Restart</string>
+    <string name="game_title">Bike Racing</string>
+    <string name="game_over">Crashed! Tap Restart</string>
+</resources>
